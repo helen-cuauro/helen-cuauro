@@ -2,7 +2,7 @@
 <h3 align="center">🌟 Apasionada del desarrollo de software y eterna aprendiz. 💻 Iniciando mi viaje en el desarrollo full stack con el objetivo de crear soluciones innovadoras que transformen el mundo digital.</h3>
 
 - 💬 Consultame sobre **html, css, javaScript, react, nodejs**
-
+- 💼 Portafolio: https://portafolio-helen-cuauro.netlify.app/
 - 📫 Cómo contactarme: **helenc0297@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
